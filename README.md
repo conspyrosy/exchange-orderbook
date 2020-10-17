@@ -2,7 +2,7 @@
 
 I wrote this as a preliminary task (see pdf in root) when applying to CryptoFacilities ~1.5 years ago. 
 
-##Implementation Details:
+## Implementation Details:
 
 * Uses Java 8 features (stream) so must be run with language 8+
 * Since this is running on a single thread, I have not payed any attention to thread-safe collections. In reality this
